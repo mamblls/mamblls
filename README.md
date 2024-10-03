@@ -4,10 +4,10 @@ Hi 👋 My name is Michael Ambler-Smith
 Data analyst
 ------------
 
-I completed my undergrad majoring in Anthropology, Religious Studies and Archaeology. After a year of work and coding courses I decided to do my post graduate in data analytics. I am passionate about machine learning in Python
+I am a results-driven individual with strong integrity, ethics, and a passion for using data-driven insights to make impactful decisions. With a background in Compliance, Forensics, and Data Analytics, I leverage technical skills like Python and cloud computing to solve complex problems. Through postgraduate studies, I have refined my machine learning skills, with a focus on practical applications of data analysis using tools like TensorFlow, Keras, and Spark. My social sciences background enhances my ability to contextualize data in human-centered problems, leading to well-rounded solutions.
 
 * 🌍  I'm based in South Africa
-* ✉️  You can contact me at [mambler888@gmail.com](mailto:mambler888@gmail.com)
+* ✉️  You can contact me at [michaelamblersmith@gmail.com](mailto:michaelamblersmith@gmail.com)
 * 🧠  I'm learning Machine learning
 
 ### Skills
