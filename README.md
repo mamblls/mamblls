@@ -4,7 +4,9 @@ Hi 👋 My name is Michael Ambler-Smith
 Data analyst
 ------------
 
-I am a results-driven individual with strong integrity, ethics, and a passion for using data-driven insights to make impactful decisions. With a background in Compliance, Forensics, and Data Analytics, I leverage technical skills like Python and cloud computing to solve complex problems. Through postgraduate studies, I have refined my machine learning skills, with a focus on practical applications of data analysis using tools like TensorFlow, Keras, and Spark. My social sciences background enhances my ability to contextualize data in human-centered problems, leading to well-rounded solutions.
+I am a results-driven individual with strong integrity, ethics, and a passion for using data-driven insights to make impactful decisions. With a background in Compliance, Forensics, and Data Analytics, I leverage technical skills like Python and cloud computing to solve complex problems. Through postgraduate studies, I have refined my machine learning skills, with a focus on practical applications of data analysis using tools like TensorFlow, PyTorch, Keras, Spark and virtule enviroments such as GCP and AWS. My social sciences background enhances my ability to contextualize data in human-centered problems, leading to well-rounded solutions.
+
+Currently I am completeing my post graduate in Data analytics, working on my thesis where I am using Maching learning models to classify music into niche genres.  
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [michaelamblersmith@gmail.com](mailto:michaelamblersmith@gmail.com)
